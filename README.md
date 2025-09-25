@@ -9,23 +9,11 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 
 ---
 
-## 💼 Professional Experience
-
-**🌏 Pixel Play Hub | Frontend & CMS Developer (Nov 2021 – Oct 2023, Sydney, Australia)**  
-- Built and customized **20+ websites, themes, and plugins** in WordPress matching business needs.  
-- Implemented **SEO strategies**, boosting organic search traffic by up to **35%**.  
-- Strengthened site security (vulnerability scans, malware prevention) → **downtime reduced by 40%**.  
-- Optimized performance achieving **<2s load time** and 100% responsive, cross-browser compatibility.  
-
-**🌐 UK Client | CMS & Frontend Developer (Nov 2023 – Jan 2025)**  
-- Developed and customized **25+ websites, plugins, and themes**, tailored to complex client requirements.  
-- Improved SEO → boosting organic traffic by **30%**.  
-- Enhanced performance (⚡sub-2 second load times, robust security, responsiveness across platforms).  
-- Provided **client training & support**, enabling sustainable website management.  
-
-**💻 Freelancer (Ongoing)**  
-- Delivered custom website designs, templates & integrations.  
-- Enhanced performance, optimized SEO, and secured client websites.  
+##💻 What I Work With
+**Web & App Development:** WordPress, Shopify, ReactJS, Next.js,
+**Databases & Backend:** PostgreSQL, MongoDB, MySQL
+**APIs & Frameworks:** FastAPI, REST APIs, GraphQL
+**AI & Automation:** AI Agents, Zapier,
 
 ---
 
