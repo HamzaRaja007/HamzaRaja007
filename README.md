@@ -55,11 +55,6 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
 ## 🛠 Tech Stack
 
 <p align="left">
