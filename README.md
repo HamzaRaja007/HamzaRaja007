@@ -18,11 +18,12 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 What I’m Passionate About
 
-- [**WordPress Business Themes**](https://github.com/YOUR_GITHUB_USERNAME/project1) – Custom, SEO-friendly, responsive WordPress themes for small businesses.  
-- [**React Portfolio Website**](https://github.com/YOUR_GITHUB_USERNAME/portfolio) – Personal portfolio made with React.js, Tailwind CSS, and animations.  
-- [**CMS Plugin Development**](https://github.com/YOUR_GITHUB_USERNAME/project2) – Custom WordPress plugin to extend site functionality and improve user workflows.  
+- Delivering **secure & optimized web solutions** with modern tech.  
+- Helping businesses grow through **SEO-driven development & UI/UX excellence**.  
+- Building **scalable CMS solutions** with WordPress and beyond.  
+- Exploring the intersection of **frontend innovation, performance, and usability**.   
 
 ---
 
@@ -43,18 +44,16 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 - ⚛ **MERN Stack Development** – PNY Training Center  
 - 📘 **JavaScript** – Udemy  
 - ⚡ **React.js** – Udemy  
-
+ 
 ---
 
-## 🌟 What I’m Passionate About
+## 🚀 Featured Projects
 
-- Delivering **secure & optimized web solutions** with modern tech.  
-- Helping businesses grow through **SEO-driven development & UI/UX excellence**.  
-- Building **scalable CMS solutions** with WordPress and beyond.  
-- Exploring the intersection of **frontend innovation, performance, and usability**.  
+- [**WordPress Business Themes**](https://github.com/YOUR_GITHUB_USERNAME/project1) – Custom, SEO-friendly, responsive WordPress themes for small businesses.  
+- [**React Portfolio Website**](https://github.com/YOUR_GITHUB_USERNAME/portfolio) – Personal portfolio made with React.js, Tailwind CSS, and animations.  
+- [**CMS Plugin Development**](https://github.com/YOUR_GITHUB_USERNAME/project2) – Custom WordPress plugin to extend site functionality and improve user workflows.
 
 ---
-
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
