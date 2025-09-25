@@ -9,7 +9,8 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 
 ---
 
-##💻 What I Work With
+##💻 **What I Work With**
+
 **Web & App Development:** WordPress, Shopify, ReactJS, Next.js,
 **Databases & Backend:** PostgreSQL, MongoDB, MySQL
 **APIs & Frameworks:** FastAPI, REST APIs, GraphQL
