@@ -9,19 +9,6 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,bootstrap,tailwind,git,github,vscode,figma" />
-</p>
-
----
-
 ## 💼 Professional Experience
 
 **🌏 Pixel Play Hub | Frontend & CMS Developer (Nov 2021 – Oct 2023, Sydney, Australia)**  
@@ -77,6 +64,19 @@ I specialize in **WordPress development, frontend engineering, SEO optimization,
 - Building **scalable CMS solutions** with WordPress and beyond.  
 - Exploring the intersection of **frontend innovation, performance, and usability**.  
 
+---
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,bootstrap,tailwind,git,github,vscode,figma" />
+</p>
 ---
 
 ⭐ *Always open to collaborating on exciting frontend & CMS projects – let's build something amazing together!*
